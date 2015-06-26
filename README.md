@@ -422,6 +422,7 @@
 [深入学习 Git 工作流 (ixirong)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fxirong%2Fmy-git%2Fblob%2Fmaster%2Fgit-workflow-tutorial.md&aid=2568&nid=75)  
 [基于 GitHub Issues 的单页面静态博客 (wuhaoworld)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fwuhaoworld%2Fgithub-issues-blog&aid=2579&nid=75)  
 [一款修改 GitHub 导航栏为之前状态的 Chrome 插件 (@summer_charlie)](http://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fsummerblue%2Fgithub-menu-back&aid=2584&nid=75)  
+[30 天精通 Git 版本控管](https://github.com/doggy8088/Learn-Git-in-30-days)
 
 <a name="GO"></a>
 ##GO
